@@ -35,11 +35,11 @@ first when you enter a integer the number will not be edited.
 ![integer example](https://github.com/bshort95/Piglatin_Python/blob/master/Capture.JPG?raw=true)
 
 second the program will do its best to maintain the integrety of the phonics. so words starting with two constenents will retain the first to letters
-word example
+word example.
 ![phonics example](https://github.com/bshort95/Piglatin_Python/blob/master/Capture1.JPG?raw=true)
 
 third single letter words just add an ay.
-![single letter example]https://github.com/bshort95/Piglatin_Python/blob/master/Capture3.JPG?raw=true()
+![single letter example](https://github.com/bshort95/Piglatin_Python/blob/master/Capture3.JPG?raw=true)
 
 
 
