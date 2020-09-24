@@ -14,7 +14,7 @@ I created this program to demonstrate
 * functions
 * but mostly string manipulation 
 
-spicificly in the python language 
+specifically in the python language 
 
 
 ## programs creation
