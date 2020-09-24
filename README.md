@@ -7,23 +7,24 @@ a program that converts user input to pig Latin
 this program overall function is to convert user input into pig latin for the sake of fun. 
 
 I created this program to demonstrate 
-variables,
-list iteration
-conditional
-operations
-functions
-but mostly string manipulation
+* variables,
+* list iteration
+* conditional
+* operations
+* functions
+* but mostly string manipulation 
+
 spicificly in the python language 
 
 
 ## programs creation
 
 this program was created using visual studio code, using the python extention
-this program contains four functions. 
-one to capture the users input
-one to seperate the text into a list of strings
-one to iterate through the strings and return the pig latin translations
-and one last one to display the last sentence
+* this program contains four functions. 
+* one to capture the users input
+* one to seperate the text into a list of strings
+* one to iterate through the strings and return the pig latin translations
+* and one last function to display the last sentence
 
 ## how to use the program 
 
@@ -31,14 +32,14 @@ when you run the program you will be prompted to enter a word or sentence.
 after you press enter the program will display what you wrote now in pig latin. 
 some things to note.
 
-first when you enter a integer the number will not be edited.
+1. when you enter a integer the number will not be edited.
 ![integer example](https://github.com/bshort95/Piglatin_Python/blob/master/Capture.JPG?raw=true)
 
-second the program will do its best to maintain the integrety of the phonics. so words starting with two constenents will retain the first to letters
+1. the program will do its best to maintain the integrety of the phonics. so words starting with two constenents will retain the first to letters
 word example.
 ![phonics example](https://github.com/bshort95/Piglatin_Python/blob/master/Capture1.JPG?raw=true)
 
-third single letter words just add an ay.
+1. single letter words just add an ay.
 ![single letter example](https://github.com/bshort95/Piglatin_Python/blob/master/Capture3.JPG?raw=true)
 
 
