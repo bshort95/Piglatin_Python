@@ -45,8 +45,7 @@ third single letter words just add an ay.
 
 ## websites
 
-[Github](www.github.com)  
 [Git](https://git-scm.com/)  
 [visual studios code](https://code.visualstudio.com/)  
 [Python](https://www.python.org/)  
-[video tutorial](https://video.byui.edu/media/0_v2afnpby)
+[Python tutorials](https://www.w3schools.com/python)
